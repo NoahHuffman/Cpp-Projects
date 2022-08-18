@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653436253 source:c:\c++\early projects\practice\main.cpp
+	<iostream>
+
+1660845650 source:c:\c++\early projects\number guessing game\main.cpp
+	<iostream>
+
